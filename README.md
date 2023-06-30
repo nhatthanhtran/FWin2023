@@ -43,3 +43,7 @@ To easily reproduce the results you can follow the next steps:
 ```
 for file in `ls scripts`; do make run_module module="bash scripts/$script"; done
 ```
+## Acknowledgement
+
+We appreciate the following github repos a lot for their valuable code base or datasets:
+https://github.com/zhouhaoyi/Informer2020
