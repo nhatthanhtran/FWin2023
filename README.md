@@ -6,8 +6,8 @@ Fourier Mix Window Attention (FWin) Transformer is a modification of Informer. I
 
 FWin model overview: 
 <div style="text-align:center">
-![FWin Model](img/FWin.PNG)
-</div>div>
+  ![FWin Model](img/FWin.PNG)
+</div>
 ## Requirements
 
 - Python 3.6
