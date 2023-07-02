@@ -23,12 +23,6 @@ pip install -r requirements.txt
 The ETT dataset used in the paper can be downloaded in the repo [ETDataset](https://github.com/zhouhaoyi/ETDataset).
 The required data files should be put into `data/ETT/` folder. A demo slice of the ETT data is illustrated in the following figure. Note that the input of each dataset is zero-mean normalized in this implementation.
 
-<p align="center">
-<img src="./img/data.png" height = "168" alt="" align=center />
-<br><br>
-<b>Figure 3.</b> An example of the ETT data.
-</p>
-
 The ECL data and Weather data can be downloaded here.
 - [Google Drive](https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR?usp=sharing)
 - [BaiduPan](https://pan.baidu.com/s/1wyaGUisUICYHnfkZzWCwyA), password: 6gan 
