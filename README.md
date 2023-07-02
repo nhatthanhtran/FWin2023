@@ -5,9 +5,9 @@ Nhat Thanh Tran, Jack Xin: Fourier-Mixed Window Attention: Accelerating Informer
 Fourier Mix Window Attention (FWin) Transformer is a modification of Informer. It is faster than Informer and slightly improve prediction.
 
 FWin model overview: 
-
+<div style="text-align:center">
 ![FWin Model](img/FWin.PNG)
-
+</div>div>
 ## Requirements
 
 - Python 3.6
