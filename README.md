@@ -1,8 +1,12 @@
-# Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting
+# FWin Transformer (2023)
 
+Nhat Thanh Tran, Jack Xin: Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting
 
-This is the origin Pytorch implementation of FWin in the following paper: 
-[Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting](Insert Archive Link Here). 
+Fourier Mix Window Attention (FWin) Transformer is a modification of Informer. It is faster than Informer and slightly improve prediction.
+
+FWin model overview: 
+
+![FWin Model](img/FWin.PNG)
 
 ## Requirements
 
