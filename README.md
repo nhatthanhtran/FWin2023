@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 ## Data
 
-The data can be dowloaded from [here(https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy)]
+The data can be dowloaded from [[here](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy)]
 
 ## Reproducibility
 
