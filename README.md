@@ -48,6 +48,10 @@ To easily reproduce the results you can follow the next steps:
 1. Initialize the docker image using: `make init`.
 2. Download the datasets using: `make dataset`.
 3. Run each script in `scripts/FWin` using `bash ETTh1Fwin.sh"` for each script. Repeat for the other models.
+
+To read the results (MSE and MAE) you can run the Python code provided in `read_result/` using `python read_result.py`.
+You will need to update the `read_result.py` file to read results from the correct scripts. The default is:
+read_file("FWin/ETTh1FWin.sh"), update the name to match the folder path in the `scripts/` folder.
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
