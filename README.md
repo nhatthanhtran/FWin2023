@@ -47,7 +47,7 @@ The data can be dowloaded from [[here](https://drive.google.com/drive/folders/1Z
 To easily reproduce the results you can follow the next steps:
 1. Initialize the docker image using: `make init`.
 2. Download the datasets using: `make dataset`.
-3. Run each script in `scripts/FWin` using `make run_module module="bash ETTh1Fwin.sh"` for each script. Repeat for the other models.
+3. Run each script in `scripts/FWin` using `bash ETTh1Fwin.sh"` for each script. Repeat for the other models.
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
