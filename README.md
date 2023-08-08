@@ -68,6 +68,7 @@ In order to use this repository with your custom data:
 4. Setting the args --save_prediction to save the output of the test dataset.
 5. Setting the args --do_prediction to make a prediction. By default, this will only predict the
 last entry of the dataset.
+6. In order to customize your learning rate, update the adjust_learning_rate function in `utils/tools.py`
 
 ## Acknowledgement
 
