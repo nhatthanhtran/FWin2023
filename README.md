@@ -52,6 +52,12 @@ To easily reproduce the results you can follow the next steps:
 To read the results (MSE and MAE) you can run the Python code provided in `read_result/` using `python read_result.py`.
 You will need to update the `read_result.py` file to read results from the correct scripts. The default is:
 read_file("FWin/ETTh1FWin.sh"), update the name to match the folder path in the `scripts/` folder.
+
+## Custom Data
+In order to use this repository with your custom data:
+1. Store your 
+1. Include your data structure in data_parser of the main_exp.py
+
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
