@@ -55,8 +55,19 @@ read_file("FWin/ETTh1FWin.sh"), update the name to match the folder path in the 
 
 ## Custom Data
 In order to use this repository with your custom data:
-1. Store your 
-1. Include your data structure in data_parser of the main_exp.py
+
+1. Store your data in the form similar to ETT where the first column is date, the remaining columns are feature columns.
+2. Set the args --data=custom, 
+  --root_path : root path where your data locate, 
+  --data_path : name of the data file, 
+  --target : the column name of the target,
+  --enc_in : number of input features,
+  --dec_in : number of input features,
+  --c_out : number of output features
+3. The default train/valid/test split is 0.7/0.1/0.2.
+4. Setting the args --save_prediction to save the output of the test dataset.
+5. Setting the args --do_prediction to make a prediction. By default, this will only predict the
+last entry of the dataset.
 
 ## Acknowledgement
 
