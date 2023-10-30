@@ -76,6 +76,7 @@ last entry of the dataset.
 
 If you find this repository useful in your research, please consider citing the paper:
 
+```
 @misc{tran2023fouriermixed,
       title={Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting}, 
       author={Nhat Thanh Tran and Jack Xin},
@@ -84,6 +85,7 @@ If you find this repository useful in your research, please consider citing the 
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+```
 
 ## Acknowledgement
 
