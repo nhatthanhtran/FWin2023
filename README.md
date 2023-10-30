@@ -72,6 +72,19 @@ In order to use this repository with your custom data:
 last entry of the dataset.
 6. In order to customize learning rate decay, update the adjust_learning_rate function in `utils/tools.py`
 
+## Citation
+
+If you find this repository useful in your research, please consider citing the paper:
+
+@misc{tran2023fouriermixed,
+      title={Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting}, 
+      author={Nhat Thanh Tran and Jack Xin},
+      year={2023},
+      eprint={2307.00493},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code base or datasets:
