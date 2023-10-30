@@ -79,7 +79,8 @@ If you find this repository useful in your research, please consider citing the 
 ```
 @misc{tran2023fouriermixed,
       title={Fourier-Mixed Window Attention: Accelerating Informer for Long Sequence Time-Series Forecasting}, 
-      author={Nhat Thanh Tran and Jack Xin},
+      author={Nhat Thanh Tran and
+              Jack Xin},
       year={2023},
       eprint={2307.00493},
       archivePrefix={arXiv},
